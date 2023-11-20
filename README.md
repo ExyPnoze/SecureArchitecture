@@ -1,6 +1,6 @@
 # DummyBanking - Fictitious Banking Transaction Application
 
-FakeBank is a web application currently under development using Django, designed to simulate a fictional banking site allowing users to conduct transactions among themselves.
+DummyBanking is a web application currently under development using Django, designed to simulate a fictional banking site allowing users to conduct transactions among themselves.
 
 ## Features
 
