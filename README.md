@@ -28,7 +28,7 @@ DummyBanking is a web application currently under development using Django, desi
 ## Usage
 
 1. Access the application via your web browser at: `http://localhost:8000`
-2. Sign up as a user or log in with your credentials.
+2. Sign up as a user or log in with credential in users.md.
 3. Explore the features to conduct transactions between users.
 
 ## Contributions
