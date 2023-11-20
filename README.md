@@ -31,6 +31,10 @@ DummyBanking is a web application currently under development using Django, desi
 2. Sign up as a user or log in with credential in users.md.
 3. Explore the features to conduct transactions between users.
 
+## Security Notice
+
+**Important:** This project is created for educational purposes to simulate a banking environment. It does not handle real money or sensitive financial information. Ensure that this application is used in a controlled environment and is not intended for actual financial transactions. The `users.md` file is used for demonstration purposes and does not reflect secure credential storage practices. Always follow best security practices and avoid using real or sensitive personal information in this environment.
+
 ## Contributions
 
 Contributions are welcome! If you'd like to contribute to this project, follow these steps:
