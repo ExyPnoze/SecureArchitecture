@@ -43,4 +43,4 @@ Contributions are welcome! If you'd like to contribute to this project, follow t
 
 ## Author
 
-- John Doe [@ExyPnoze](https://github.com/ExyPnoze)
+- Guiset Léandre [@ExyPnoze](https://github.com/ExyPnoze)
