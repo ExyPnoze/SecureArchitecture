@@ -15,7 +15,7 @@ DummyBanking is a web application currently under development using Django, desi
 
 ## Installation
 
-1. Clone this repository: `git clone <[REPO_URL](https://github.com/ExyPnoze/SecureArchitecture)>`
+1. Clone this repository: `git clone https://github.com/ExyPnoze/SecureArchitecture`
 2. Navigate to the project directory: `cd SecureArchitecture`
 3. Create a virtual environment: `python -m venv venv`
 4. Activate the virtual environment:
